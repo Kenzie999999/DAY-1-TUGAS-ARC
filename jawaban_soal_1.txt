@@ -1,0 +1,30 @@
+Nama: Kenzie Raffa Ardhana
+NIM: 19623066
+
+Jawaban no 1:
+
+Merge conflict adalah situasi di mana terdapat perbedaan atau pertentangan antara dua versi kode yang ingin digabungkan (merge) dalam sistem kontrol versi (version control system) seperti Git. Hal ini terjadi ketika dua developer atau lebih melakukan perubahan pada file yang sama, dan perubahan tersebut tidak dapat digabungkan secara otomatis oleh sistem.
+
+Cara Menanggulangi Merge Conflict
+Berikut adalah beberapa langkah untuk menanggulangi merge conflict:
+
+1. Identifikasi File yang Bermasalah
+
+Langkah pertama adalah mengidentifikasi file yang mengalami merge conflict. Git akan menunjukkan file yang bermasalah dengan pesan error.
+
+2. Buka File yang Bermasalah
+
+Buka file yang bermasalah dengan text editor pilihan Anda.
+
+3. Temukan Bagian yang Berkonflik
+
+Cari bagian dalam file yang menunjukkan tanda merge conflict. Git biasanya menandai bagian yang berkonflik dengan <<<<<<< HEAD, =======, dan >>>>>>.
+
+4. Pilih Versi yang Ingin Digunakan
+
+Bandingkan kedua versi yang berkonflik dan pilih versi yang ingin Anda gunakan. Anda dapat memilih versi satu developer secara keseluruhan, atau menggabungkan bagian-bagian dari kedua versi.
+
+5. Simpan dan Commit File
+
+Setelah Anda menyelesaikan merge conflict, simpan file dan lakukan commit perubahan.
+

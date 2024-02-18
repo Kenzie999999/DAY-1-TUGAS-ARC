@@ -1,0 +1,32 @@
+Nama: Kenzie Raffa Ardhana
+NIM: 19623066
+
+Jawaban no 3:
+
+Fork:
+
+Forking adalah proses membuat salinan repository GitHub dari satu akun ke akun lain. Forking memungkinkan Anda untuk membuat perubahan pada repository tanpa memengaruhi repository asli.
+
+Cara Fork Repository:
+
+1. Buka repository yang ingin Anda fork di GitHub.
+2. Klik tombol Fork di bagian kanan atas halaman.
+3. Repository yang difork akan muncul di akun Anda.
+
+Pull Request:
+
+Pull request adalah cara untuk meminta perubahan dari repository yang difork untuk digabungkan ke repository asli.
+
+Cara Membuat Pull Request:
+
+1. Buka repository yang difork di akun Anda.
+2. Buat branch baru untuk perubahan Anda.
+3. Lakukan commit perubahan Anda ke branch baru.
+4. Klik tombol Pull Request di bagian kanan atas halaman.
+5. Pilih branch repository asli yang ingin Anda gabungkan dengan perubahan Anda.
+6. Berikan judul dan deskripsi untuk pull request Anda.
+7. Klik tombol Create Pull Request.
+
+Manfaat Fork dan Pull Request:
+
+Memungkinkan kolaborasi dengan forking dan pull request memungkinkan Anda untuk berkolaborasi dengan orang lain pada project GitHub.

@@ -1,0 +1,6 @@
+Nama: Kenzie Raffa Ardhana
+NIM: 19623066
+
+Jawaban no 2:
+
+Git Rebase adalah sebuah perintah dalam Git yang digunakan untuk memperbarui riwayat commit (commit history) di sebuah branch dengan cara memindahkan commit-commit dari branch tersebut ke branch lain.
